@@ -1,2 +1,4 @@
 .venv
+__/ds
+ds/
 data/MMNIST
